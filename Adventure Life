@@ -1,0 +1,91 @@
+HTML>
+<HEAD>
+<TITLE>How to have an Adventure Life</TITLE>
+<STYLE>
+BODY {BACKGROUND:LightSteelBlue}
+H1 {TEXT-ALIGN:Center; COLOR:salmon}
+H2 {TEXT-ALIGN:Center; COLOR:MidnightBlue}
+</STYLE>
+</HEAD>
+<BODY>
+<H1><B>Welcome to the Adventures World!<B></H1>
+<img src="c:\users\nafil_000\Desktop\adventure.jpg" style="float:left; margin-left:0px; padding-left:0px;height:200px;width:300px;border:10px"/>
+<img src="c:\users\nafil_000\Desktop\Adventure Life R.jpg" style="float:right;margin-right:0px; padding-right:0px;height:200px;width:350px;border:10px"/>
+<H2><U>"Adevntures Life"</U></H2>
+<P style="color:WhiteSmoke;">Adventure refers to the exciting activity.These experiences are often of daring or risky nature. 
+There are many people whose life is filled up with adventurous experiences.The definition of Adventure varies from person to person. 
+It is in actually defined as ‘a risky undertaking of unknown outcome’which means that an adventurer is one who gets a thrill out of exploits,
+the result of which may also be dangerous or if in favour.Adventurers dabble in the Stock Market, in Shares which can shoot up or zoom down without even the experts being able to forecast it. 
+This has become a favorite profession of the entrepreneurs who are interested in growing rich fast and are also ready to take the extreme risks involved in this. However such adventure is only for the brave hearted people and they believe in the age old adage of ‘NO RISK, NO GAIN’.</P>
+<P><LI><U><B>IMAGINE</B></U></LI></P>
+<UL>
+<P><I>Imagine Yourself having the life balance you desire, in every part of your life. Balance between family, friends, work, hobbies, and recreation. 
+Walk your path with confidence and conviction. You can have it all!</I></P>
+</UL>
+<P><LI><U><B>VISUALIZE YOUR DREAM LIFE</B></U></LI></P>
+<UL>
+<P><I>When you visualize you are not using your sight.When you visualize you are only using your imaginary inner forces, not your senses. 
+This means that each time you visualize you are using your thoughts.When you hold positive images in your mind,you are radiating positive vibrations and, in turn,drawing back to you good things. 
+Nevertheless, when you hold negative images, you broadcast negative vibrations and consequently you will attract negative things to your life.</I></P>
+</UL>
+<P><LI><U><B>SHAKE UP YOUR MORNING ROUTINE</B></U></LI></P>
+<UL>
+<P><I>Instead of following the same wake-up routine every day, do it differently on occasion.Get up ten minutes early and have breakfast outside. 
+Turn off the TV and put on music.Make love before work.Drive a different way.Just starting your day differently will give you a little thrill.</I></P>
+</UL>
+<P><LI><U><B>GO CHEER</B></U></LI></P>
+<UL>
+<P><I> Attend a competitive,fast-paced sporting event like tennis, basketball, or racing where the energy and excitement of the sport is contagious.</I></P>
+</UL>
+<P><LI><U><B>FIND EXCITING PEOPLE</B></U></LI></P>
+<UL>
+<P><I> Look around at people you know whose lives seem interesting and exciting.Take the initiative to get to know them so that you can be included in some of their excitement.</I></P>
+</UL>
+<P><LI><U><B>LEARN SOMETHING NEW</B></U></LI></P>
+<UL>
+<P><I>Study a new language,a new skill, a hobby.You will open doors to meeting new people who share your interests and abilities and gain a sense of confidence and achievement.</I></P>
+</UL>
+<P><LI><U><B>GET OUT OF THE HOUSE</B></U></LI></P>
+<UL>
+<P><I>Step away from the TV or computer and do something.Take a walk with a friend.Go to the bookstore and browse.Visit a local gallery or museum.</I></P>
+</UL>
+<P><LI><U><B>WRITE DOWN YOUR LIFE VISION</B></U></LI></P>
+<UL>
+<P><I>Spend some time thinking about your ideal life filled fun, excitement and adventure.Write down your vision and the actions you could take to get yourself there.</I></P>
+</UL>
+<P><LI><U><B>BE CURIOUS ABOUT PEOPLE</B></U></LI></P>
+<UL>
+<P><I>Ask people (old and new friends) questions about their lives.Learn what other people do and what makes them tick. 
+You might discover something intriguing about them and yourself.</I></P>
+</UL>
+<P><LI><U><B>DONT WAIT</B></U></LI></P>
+<UL>
+<P><I>Don’t wait to try something, to initiate, to take action. Stop playing it safe or looking for someone else to take the lead.Be a creative creator of your life. 
+You can make it as exciting and thrilling as you wish.</I></P>
+</UL>
+<P style="color:BlanchedAlmond;">TIPS TO BE MORE ADVENTURES</P>
+<UL>
+<P style="color:RoyalBlue;"><I>Ask your friends to remind you that you are trying to be more adventurous.
+Put a twist on something you’ve been doing for a while. Cook an exotic meal. Wear something out of character. Ask yourself, “How can I do this differently?”
+Fear and anxiety might be holding you back in life. Seek professional help if you are struggling.
+New people have the potential to teach you something new that can open your life to adventure.
+Talk to people. Their stories of adventure can be almost as good as being on one yourself.
+Always be on the lookout for new things to do. Film a documentary. Take a dance class. Meditate with Buddhist monks.
+Every adventure you go on results in an interesting story to tell. People love a great story.
+Find a vantage point atop a hill or at the ocean that has a great view. It will remind you there is a big world out there full of adventure.
+Get fit. Many adventures require physical exertion.
+Try something you've never done before and have fun doing it.</I></P>
+</UL>
+<form action="action_page.php">
+ Search Google:
+ <input type="search"
+name="googlesearch">
+ <input type="submit">
+</form>
+<UL>
+<P style="color:PaleVioletRed;"><B>Thanks for making it to the bottom of my site.That takes some serious dedication.Let me reintroduce myself:Nafila Creations-Welcome to my Adventure's World.
+The biggest adventure you can take is to live the life of your dreams.</B></P>
+</UL>
+<img src="c:\users\nafil_000\Desktop\end 2.jpg" style="float:left; margin-left:0px; padding-left:0px;height:400px;width:1000px;border:10px"/>
+</BODY>
+</HTML>
